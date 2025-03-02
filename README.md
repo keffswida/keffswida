@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Kefiar Sakki Widyarinakit a student who still learning to become a Fullstack Developer
+I'm Kefiar Sakki Widyarinakit a newbie programmer who still learning to become a Fullstack Developer
 
 
 ## 🌐 Socials:
