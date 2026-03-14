@@ -34,7 +34,7 @@
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/kefiarsakkiw" target="_blank">
+  <a href="https://linkedin.com/in/keffswida" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/keffswida" target="_blank"> 
